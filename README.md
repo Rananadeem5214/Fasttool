@@ -19,8 +19,11 @@ pip2 install bs4
 pkg install git -y 
 
 pkg install figlet 
-pip2 install ipaddres
+
+pip2 install ipaddress
+
 rm -rf Fasttool
+
 
 git clone https://github.com/Rananadeem5214/Fasttool.git 
 
