@@ -31,4 +31,6 @@ ls
 
 cd Fasttool 
 
+git pull
+
 python2 Fasttool.py 
